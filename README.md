@@ -1,0 +1,1 @@
+Hi, this is a very simple portfolio using HTML and CSS , you can use the code from my github repository , if you're a beguinner it will be useful to view the code and try to produce your own portfolio.
